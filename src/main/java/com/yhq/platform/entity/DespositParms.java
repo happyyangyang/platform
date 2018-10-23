@@ -4,8 +4,7 @@ import java.math.BigDecimal;
  * Created by yanghuiqing on 2018/10/22.
  */
 public class DespositParms {
-    //<amount>,<block_hash> ,<chain>,<block_height>, <confirm_times>, <currency>,<extr>, <from_address>,
-    // <from_address_tag> ,<request_id>,<to_address>,<to_address_tag>,<tx_hash>,<type>,<vout_index>
+
     private BigDecimal amount;
     private String chain;
     private String currency;
